@@ -12,7 +12,13 @@
 				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
 				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_HealthBar.uasset",
 				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Sounds/Bkgrnd_Cue.uasset",
-				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Sounds/CS415_MP1_Background.uasset"
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Sounds/CS415_MP1_Background.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Projectiles.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthCollect.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Sounds/Pickup.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Sounds/Pickup_Cue.uasset",
+				"/Users/abhithanvi/Desktop/cs415/1/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_EnemyHit.uasset"
 			]
 		}
 	]
